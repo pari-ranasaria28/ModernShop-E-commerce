@@ -1,39 +1,62 @@
+ 🛍️ ModernShop E-commerce Store
 
-Frontend Deploy Link - https://modern-shop-e-commerce.vercel.app/
+🚀 Live Demo: [Frontend](https://modern-shop-e-commerce.vercel.app/) | [Admin Dashboard](https://modernshop-e-commerce-production.up.railway.app/admin/products/new)
 
-Backend Deploy Link - https://modernshop-e-commerce-production.up.railway.app/admin/products/new
+📌 Overview
 
-Project Overview
-This project is a full-fledged E-commerce Store built with a modern tech stack. It includes:
-A user-facing store with product browsing, filtering, shopping cart, and checkout via Stripe.
-An admin dashboard to manage products, categories, and view orders.
-Authentication for admins and secure routes.
-Real-time database handling via Prisma (ORM) with PostgreSQL or MySQL.
-Clean, responsive UI using Tailwind CSS.
+ModernShop is a fully-featured, scalable e-commerce platform built with a modern tech stack. It provides a seamless shopping experience for customers and a powerful dashboard for store admins.
 
-Project Use Cases
-
-For Customers:
-Browse and search for products.
-Filter by categories, price, or tags.
-Add/remove items to cart.
-Checkout using Stripe payment gateway.
-Receive order confirmation.
-
-For Admins:
-Login to a secure dashboard.
-Add, edit, or remove products.
-Create and manage categories.
-View and manage customer orders.
-Monitor sales and performance.
-
-Tech Stack -
-Next.js - Full Stack React Framework
-Tailwind CSS - UI styling
-Prisma ORM - Database ORM
-PostgreSQL - Relational Database
-Stripe - Payment gateway integration
-Clerk - Authentication
+* ✅ Customer-facing storefront for browsing and buying.
+* ✅ Secure admin panel to manage products and orders.
+* ✅ Real-time database interaction using Prisma and PostgreSQL.
+* ✅ Responsive design powered by Tailwind CSS.
+* ✅ Integrated Stripe payment gateway.
+* ✅ Authentication via Clerk for admin access.
 
 
+👥 Use Cases
+
+🔹 For Customers
+
+* 🔍 Browse and search for products
+* 🧩 Filter products by category, price, or tags
+* 🛒 Add/remove products to/from the cart
+* 💳 Secure checkout using Stripe
+* 📧 Receive order confirmation after purchase
+
+🔹 For Admins
+
+* 🔐 Secure login via Clerk
+* ➕ Add, edit, or delete products
+* 🗂️ Manage product categories
+* 📦 View and manage customer orders
+* 📊 Monitor sales and performance
+
+
+## 🧰 Tech Stack
+
+| Technology   | Role                           |
+| ------------ | ------------------------------ |
+| Next.js      | Full-stack React framework     |
+| Tailwind CSS | Fast and responsive UI styling |
+| Prisma ORM   | Type-safe database access      |
+| PostgreSQL   | Relational database            |
+| Stripe       | Payment processing             |
+| Clerk        | Authentication & user sessions |
+
+
+ 📦 Features Summary
+
+* 🔄 Real-time CRUD operations for admins
+* 🔎 Advanced product filtering for customers
+* 🔐 Role-based route protection
+* 🌐 Deployed on Vercel and Railway
+* ⚡ Optimized performance and responsiveness
+
+
+📫 Contact
+
+Built by **Pari Ranasaria**
+📧 Email: [pari.ranasaria@gmail.com](mailto:pari.ranasaria@gmail.com)
+📱 Phone: +91-9924097838
 
