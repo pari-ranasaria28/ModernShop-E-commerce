@@ -1,6 +1,9 @@
  🛍️ ModernShop E-commerce Store
 
-🚀 Live Demo: [Frontend](https://modern-shop-e-commerce.vercel.app/) | [Admin Dashboard](https://modernshop-e-commerce-production.up.railway.app/admin)
+🚀 Live Demo: [Frontend](https://modern-shop-e-commerce.vercel.app/) | [Backend](https://modernshop-e-commerce-production.up.railway.app/)
+
+* ✅ Frontend Deployment using Vercel
+* ✅ Backend Deployment using Railway
 
 📌 Overview
 
